@@ -24,4 +24,4 @@ Our team competed in the Yokozuna Robot Challenge 2024
 - C++
 - PWM Motor Control
 
-> Learn more about the competition: [Yokozuna Official Site]([https://www.he-ro.gr/yokozuna-mini-sumo](https://ccrl.notion.site/Acerca-de-706e20c6e6784b24b1a9acb286055106))
+> Learn more about the competition: [Yokozuna Official Site](https://ccrl.notion.site/Acerca-de-706e20c6e6784b24b1a9acb286055106)  
