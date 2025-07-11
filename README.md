@@ -61,6 +61,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 *(contact information pending)*
 
 **Lorenzo Orrante**  
-*(contact information pending)*
+[LinkedIn](https://www.linkedin.com/in/lorenzo-orrante-rom%C3%A1n-75b146359/) | lorenzo.orrante@icloud.com
 
 
