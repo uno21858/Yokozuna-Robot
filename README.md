@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 [LinkedIn](https://linkedin.com/in/galo-arechiga-gutierrez-b81b5935b) | galo.arechiga@gmail.com
 
 **Erick Sánchez**  
-*(contact information pending)*
+[LinkedIn](https://www.linkedin.com/in/erick-alberto-sanchez) | erick_sanar005@hotmail.com
 
 **Lorenzo Orrante**  
 [LinkedIn](https://www.linkedin.com/in/lorenzo-orrante-rom%C3%A1n-75b146359/) | lorenzo.orrante@icloud.com
